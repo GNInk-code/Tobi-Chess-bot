@@ -9,7 +9,7 @@ This project consists of a chess robot along with an user interface.
 ![Screenshot of GUI when the Robot is thinking on a move](./src/Media/Screenshot.png)
 
 ## How to use
-Either download the entire repository and execute using a Python interpreter (preferably Python 3) [`chess_game_GUI`](./src/chess_game_GUI.py). Make sure all used Python packages are downloaded (ex: Tkinter, PIL,...). Or directly choose the executable that best suits your computer (Linux/Windows/MacOS) from the releases button. We may not be considered "official editors" by your operating system, so it might consider these executables as possible threats.
+Either download the entire repository and execute using a Python interpreter (preferably Python 3) [`chess_game_GUI`](./src/chess_game_GUI.py). Make sure all used Python packages are downloaded (ex: Tkinter, PIL,...). Or directly choose the executable that best suits your computer (Linux/Windows/MacOS) from the [releases](https://github.com/GNInk-code/Tobi-Chess-bot/releases/latest). We may not be considered "official editors" by your operating system, so it might consider these executables as possible threats.
 Please be aware of the following disclaimer.
 
 
