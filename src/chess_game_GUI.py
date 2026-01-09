@@ -31,9 +31,9 @@ except:
 
 try:
     #To be in the right dir, otherwise it won't find the pictures
-    if os.getcwd()[-4:] != "Code": #os.getcwd() = get current working directory && -4: -> last 4 chars
-        os.chdir("./Code") #os.chdir(pathname:str) = change directory
-        # There's no dark magic in this that will open ports on your computer :) Hein Alexis!!!
+    if os.getcwd()[-4:] != "src": #os.getcwd() = get current working directory && -4: -> last 4 chars
+        os.chdir("./src") #os.chdir(pathname:str) = change directory
+        # There's no dark magic in this that will open ports on your computer :)
 except:
     pass
 
@@ -863,7 +863,7 @@ class menu():
             self.info()
         
         elif event.char == 'p':
-            wbopen("https://github.com/GNInk-code/Chess-bot/issues/new")
+            wbopen("https://github.com/GNInk-code/Tobi-Chess-bot/issues/new")
         
         elif event.char == 'o':
             self.import_()
