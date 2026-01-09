@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>chess_game_GUI</string>
+	<key>CFBundleExecutable</key>
+	<string>chess_game_GUI</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-c452fa9497e2dbd2019de795dcfa6e69c4ca63a9a552162a7f360388b8f7ead0.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>chess_game_GUI</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>chess_game_GUI</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
